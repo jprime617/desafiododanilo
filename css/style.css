@@ -1,0 +1,190 @@
+.Tudo{
+    text-align: center;
+    margin-top: 50px;
+}
+.Tudo2{
+    text-align: center;
+    margin-top: 20px;
+}
+.Coresfundo{
+    height: 100px;
+    width: 100px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.Tabuadas{
+    text-align: center;
+    display: inline-block;
+    margin-left: 88px;
+}
+.Titulo{
+    text-align: center;
+}
+.CaixaTab1{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab1:checked{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+}
+.img1{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 10%;
+}
+
+
+
+.CaixaTab1{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab1:checked{
+    background-color: #EA2AE6;
+    width: 50px;
+    height: 50px;
+}
+
+
+.CaixaTab2{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab2:checked{
+    background-color: #0BE53E;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.CaixaTab3{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab3:checked{
+    background-color: #E62723;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.CaixaTab4{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab4:checked{
+    background-color: #E6BF24;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.CaixaTab5{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab5:checked{
+    background-color: #3C50E5;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.CaixaTab6{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab6:checked{
+    background-color: #C774EB;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.CaixaTab7{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab7:checked{
+    background-color: #93E59A;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.CaixaTab8{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab8:checked{
+    background-color: #E68783;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.CaixaTab9{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab9:checked{
+    background-color: #E6CF97;
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.CaixaTab10{
+    all: unset;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.CaixaTab10:checked{
+    background-color: #90B8E6;
+    width: 50px;
+    height: 50px;
+}
