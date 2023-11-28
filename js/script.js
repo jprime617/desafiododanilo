@@ -285,7 +285,7 @@ function alets(){
 
 
     if(victory == victory2){
-        alert("parabens")
+        alert("PARABÉNS")
     }else{alert("Tem coisa errada ai irmão")}
     victory = 0
     victory2 = 0
